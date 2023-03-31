@@ -33,58 +33,58 @@ const questions = [
 
     {
         type: "input",
-        name: "Username",
+        name: "username",
         message: "What is your GitHub username?",
     },
     {
         type: "input",
-        name: "Name",
+        name: "name",
         message: "What is your first and last name?",
     },
     {
         type: "input",
-        name: "Email",
+        name: "email",
         message: "What is your email address?",
     },
     {
         type: "input",
-        name: "Year",
-        message: "What is the current year? (e.g. 2023).",
+        name: "year",
+        message: "What is the current year (e.g. 2023?",
     },
     {
         type: "input",
-        name: "Title",
+        name: "title",
         message: "What is the title of your application?",
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "Enter a description for your application.",
     },
     {
         type: "list",
-        name: "License",
+        name: "license",
         message: "Choose a license for your application.",
         choices: ["None", "Apache 2.0", "GNU General Public License v3.0", "MIT", "BSD 2-Clause Simplified", "BSD 3-Clause New or Revised", "Boost Software 1.0", "Creative Commons Zero v1.0 Universal", "Eclipse Public License 2.0", "GNU Affero General Public License v3.0", "GNU General Public License v2.0", "GNU Lesser General Public License v2.1"]
     },
     {
         type: "input",
-        name: "Installation",
+        name: "installation",
         message: "Describe the installation process if there is any.",
     },
     {
         type: "input",
-        name: "Usage",
+        name: "usage",
         message: "What is the application usage for?",
     },
     {
         type: "input",
-        name: "Tests",
+        name: "tests",
         message: "What are the test instructions?"
     },
     {
         type: "input",
-        name: "Contributors",
+        name: "contributors",
         message: "Who are the contributors of this application if any?",
     }
 ];
