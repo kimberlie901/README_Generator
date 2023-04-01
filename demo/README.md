@@ -1,9 +1,9 @@
-# this is a readme generator
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Professional Generated README
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 
-this application makes a simple readme for the user
+this is a generator that makes a good professional README for application/projects so that the user can devote more time working on the project/application
 
 ## Table of Contents 
 
@@ -21,28 +21,28 @@ this application makes a simple readme for the user
 
 ## Installation 
 
-there are 
+npm install
 
 ## Usage
 
-to make a read me 
+to generate a README 
 
 ## Contributors
 
-Contact me at none
+N/A
 
 ## Tests 
 
-To run tests, run these commands 
-there are test instructions
+ 
+N/A
 
 ## Questions 
 
-If you have any questions about the repository or any feedback, you can reach me at kimberlieguillaume@gmail.com and kimberlie901
+If you have any questions about the repository or any feedback, you can contact me at my email fakeEmail123@gmail.com and checkout my GitHub profile kimberlie901
 
 ## License 
 
-Copyright (c) Apache 2.0. All rights reserved. 
+Copyright (c) Kimberlie G. All rights reserved. 
 
-Licensed under the Apache 2.0 license. 
+Licensed under the MIT license. 
 
