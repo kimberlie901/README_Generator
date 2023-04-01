@@ -89,7 +89,7 @@ ${data.tests}
 
 ## Questions 
 
-If you have any questions about the repository or any feedback, you can reach me at ${data.email}
+If you have any questions about the repository or any feedback, you can reach me at my email ${data.email} and checkout my GitHub profile ${data.username}
 
 ## License 
 

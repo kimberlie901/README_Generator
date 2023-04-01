@@ -48,11 +48,6 @@ const questions = [
     },
     {
         type: "input",
-        name: "year",
-        message: "What is the current year (e.g. 2023?",
-    },
-    {
-        type: "input",
         name: "title",
         message: "What is the title of your application?",
     },
@@ -65,7 +60,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "Choose a license for your application.",
-        choices: ["None", "Apache 2.0", "GNU General Public License v3.0", "MIT", "BSD 2-Clause Simplified", "BSD 3-Clause New or Revised", "Boost Software 1.0", "Creative Commons Zero v1.0 Universal", "Eclipse Public License 2.0", "GNU Affero General Public License v3.0", "GNU General Public License v2.0", "GNU Lesser General Public License v2.1"]
+        choices: ["None", "MIT", "Apache 2.0", "GNU General Public License v3.0", "Creative Commons Zero v1.0 Universal", "Mozilla Public License 2.0"]
     },
     {
         type: "input",

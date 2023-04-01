@@ -1,9 +1,9 @@
-# alsdkj
+# this is a readme generator
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description 
 
-alsdkj
+this application makes a simple readme for the user
 
 ## Table of Contents 
 
@@ -21,24 +21,24 @@ alsdkj
 
 ## Installation 
 
-alskdj
+there are 
 
 ## Usage
 
-alsdkj 
+to make a read me 
 
 ## Contributors
 
-Contact me at alsdkjf
+Contact me at none
 
 ## Tests 
 
 To run tests, run these commands 
-alsdkj
+there are test instructions
 
 ## Questions 
 
-If you have any questions about the repository or any feedback, you can reach me at alskdj
+If you have any questions about the repository or any feedback, you can reach me at kimberlieguillaume@gmail.com and kimberlie901
 
 ## License 
 
