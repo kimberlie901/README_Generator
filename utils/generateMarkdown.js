@@ -80,20 +80,20 @@ ${data.usage}
 
 ## Contributors
 
-Contact me at ${data.contributors}
+${data.contributors}
 
 ## Tests 
 
-To run tests, run these commands 
+ 
 ${data.tests}
 
 ## Questions 
 
-If you have any questions about the repository or any feedback, you can reach me at my email ${data.email} and checkout my GitHub profile ${data.username}
+If you have any questions about the repository or any feedback, you can contact me at my email ${data.email} and checkout my GitHub profile ${data.username}
 
 ## License 
 
-Copyright (c) ${data.license}. All rights reserved. 
+Copyright (c) ${data.name}. All rights reserved. 
 
 Licensed under the ${data.license} license. 
 
