@@ -1,4 +1,4 @@
-# WhatYouDoInALibrary
+# Professional README Generator
 
 ## Description
 
@@ -17,7 +17,13 @@ This is a Visual Studio Code command-line application that uses Node.js to gener
 - In the terminal the application will be invoked by using node index.js
 - The user will then be prompted to answer questions 
 - From the questions that the user had input the information will be used to generate the README file.
+- The user can now use the professional generated README for their application or project. 
 
+![README.md Sample Screenshot](Assets/readme-demo-sample.png)
+
+[Video Demo](https://drive.google.com/file/d/1PZKLgMzCZ8jAzMPBc08LfZkhBXvXfird/view?usp=sharing)
+
+[Deployed Application](https://kimberlie901.github.io/WhatYouDoInALibrary/)
 
 ## Technologies
 
@@ -27,7 +33,6 @@ This is a Visual Studio Code command-line application that uses Node.js to gener
 - npm 
 - ShieldsIO (for badges)
 
-## Credits
 
 ## License 
 
